@@ -1,0 +1,85 @@
+body{
+  background-image:url(https://images.unsplash.com/photo-1549558549-415fe4c37b60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+  width: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+.main{
+     margin-top: 200px;
+     
+
+}
+
+.logo-img{
+  
+  width: 300px;
+  display: block;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.search-input{
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 24px;
+  
+}
+
+.search-input > input{
+    outline: none;
+    border: none;
+    background: transparent;
+
+}
+.card{
+  color: rgb(43, 55, 226);
+  background: cornsilk;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  display: block;
+  margin-top: 20px;
+  padding: 50px;
+  border: 4px solid #222222;
+  border-radius: 20px;
+}
+.btn-wrapper{
+   display: flex;
+    justify-content: center;
+
+}
+
+.btn{
+    width: auto;
+    margin-top: 30px;
+    border: none;
+    border-radius: 4px;
+    background: #dfe1e5;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 16px;
+    padding-left: 16px;
+    font-size: 14px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.micro{
+  margin-left: 181px;
+cursor: pointer;
+background: transparent;
+border-radius: 1px solid transparent;
+
+}
